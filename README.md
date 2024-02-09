@@ -13,3 +13,9 @@ Learned:
 * running objects on gpu and some amd cards lack floating point operations
 
 ## 01 Workflow
+Learned:
+* Learning process for pytorch process 
+* spliting train/test data along with visualization
+* building base model inheriting from the `nn.Module` class
+* training and testing loop
+* saving and loading from model
