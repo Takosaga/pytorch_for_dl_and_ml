@@ -19,3 +19,10 @@ Learned:
 * building base model inheriting from the `nn.Module` class
 * training and testing loop
 * saving and loading from model
+  
+## 02 Nueral Network Classification
+Learned:
+* More practice with workflow
+* How to setup model for linear and non linear relationships
+* Model for binary or multi-class classification
+* How to improve model by adjusting hyperparameters
